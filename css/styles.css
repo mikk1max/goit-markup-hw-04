@@ -312,10 +312,7 @@ h6 {
 .soc-icons-item {
 }
 
-.soc-icon-link:hover {
-  background-color: #404bbf;
-}
-
+.soc-icon-link:hover,
 .soc-icon-link:focus {
   background-color: #404bbf;
 }
@@ -461,10 +458,7 @@ h6 {
   margin-right: 120px;
 }
 
-.footer-page .soc-icon-link:hover {
-  background-color: #31d0aa;
-}
-
+.footer-page .soc-icon-link:hover,
 .footer-page .soc-icon-link:focus {
   background-color: #31d0aa;
 }
