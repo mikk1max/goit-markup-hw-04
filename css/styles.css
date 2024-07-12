@@ -156,6 +156,7 @@ h6 {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  margin: 0 auto;
   padding: 188px 0;
 }
 
